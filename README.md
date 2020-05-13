@@ -6,3 +6,9 @@
 
 Fixes the server startup crash bug on 20w20a.
 
+Two Zero Bee requires the [Fabric modloader](https://fabricmc.net/use/).
+
+## Installation
+
+1. Download Two Zero Bee from [CurseForge](https://www.curseforge.com/minecraft/mc-mods/two-zero-bee/files) or [GitHub](https://github.com/haykam821/Two-Zero-Bee/releases).
+2. Place the downloaded file in your `mods` folder.
