@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "twozerobee",
+	"version": "1.0.0",
+	"name": "Two Zero Bee",
+	"description": "Fixes the server startup crash bug on 20w20a.",
+	"authors": [
+		"haykam821",
+		"skyrising"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Two-Zero-Bee#readme",
+		"issues": "https://github.com/haykam821/Two-Zero-Bee/issues"
+	},
+	"mixins": [
+		"twozerobee.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/twozerobee/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
